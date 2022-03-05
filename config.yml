@@ -1,0 +1,4 @@
+
+git config --global user.name 'itlognapulatigsyete'
+git config --global user.email 'markordy001@gmail.com'
+git config --global --list
